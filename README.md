@@ -28,8 +28,8 @@ pytest -n auto tests/vwoLoginTests/pom/test_*
 How to run Testcase parallel ?
 pytest -n auto tests/test/vwoLoginTests/test_vwo_login.py
 
-Screenshot 2024-11-22 at 9 12 15 PM
+![img_1.png](img_1.png)
 
 Dry Run Testcases
 
-Screenshot 2025-01-24 at 8 52 25 PM
+![img_2.png](img_2.png)
